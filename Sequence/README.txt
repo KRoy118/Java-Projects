@@ -17,13 +17,13 @@ Output Format
 
 For each x from 1 to n, print an integer denoting any valid y satisfying the equation p(p(y)) on a new line.
 
-Sample Input 
+Sample Input :
 
 3
 
 2 3 1
 
-Sample Output 
+Sample Output :
 
 2
 
