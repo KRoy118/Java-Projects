@@ -16,7 +16,7 @@ public class CorrectIncorrect
             char ch=str.charAt(i);//System.out.println(ch);
             char ch1=str.charAt(i+1);
             int diff=Character.getNumericValue(ch)-Character.getNumericValue(ch1);
-            System.out.println(diff);
+           // System.out.println(diff);
             if(diff==1||diff==-1)
             {
                 c++;
@@ -25,9 +25,9 @@ public class CorrectIncorrect
            }
     
         if(c==str.length())
-        System.out.println(c+""+"correct");
+        System.out.println("correct");
         else
-        System.out.println(c+""+"incorrect");
+        System.out.println("incorrect");
     }  
 
 }
