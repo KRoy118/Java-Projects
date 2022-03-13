@@ -11,7 +11,7 @@ class Main
         for(i=0;i<l;i++)
         ar[i]=sc.nextInt(); 
         System.out.println();
-        int  n=sc.nextInt();int br[]=new int[100];int s1=0,s2=0;
+        int  n=sc.nextInt();int br[]=new int[100];//int s1=0,s2=0;
        // int cr[]=new int[100];
         
         for(i=l-1;i>Math.abs((l-1)-n);i--)
