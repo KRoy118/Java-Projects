@@ -1,5 +1,5 @@
 import java.util.*;
-import java.math.*;
+//import java.math.*;
 class Main
 {//Spaces between outputs added for clarity.It wasn't asked in question
     public static void main(String[]args)
